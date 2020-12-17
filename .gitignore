@@ -1,5 +1,46 @@
+<<<<<<< HEAD
 # Untrack folders
 node_modules/
 
 #Google Co-lab
 .ipynb_checkpoints
+=======
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+.factorypath
+log/
+
+# VS Code
+.vscode/
+
+# Program Files
+*.o
+*.elf
+*.c#
+
+# System Files
+~*
+
+# Pycharm
+src/controllers/splunk/__pycache__/
+src/models/__pycache__/
+src/views/__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+>>>>>>> 2f366c52198aab02eaf982d7f91687dd171b8e97
